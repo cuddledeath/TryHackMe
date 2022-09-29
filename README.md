@@ -2,9 +2,9 @@
 
 ### This is my repository of notes and answers for various TryHackMe rooms. 
 
-### **These are not to be considered write ups. **
+### These are not to be considered write ups.
 
-### ** Only utilize if you're truly desperate for an answer. **
+### Only utilize if you're truly desperate for an answer.
 
 https://tryhackme.com
 
